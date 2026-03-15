@@ -1,23 +1,15 @@
-# Vaibbhav808-devloper
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+# 💫 About Me:
+## Hi there 👋 I'm Vaibhav Kr Ojha<br><br>🎓 I’m a **B.Tech student (2nd Semester)** who is passionate about programming and continuously improving my problem-solving skills.<br><br>💻 I completed **C Programming** in my **1st semester**, which helped me build a strong foundation in coding and logical thinking.<br><br>🚀 Currently, I’m learning and exploring:<br><br>* **Python**<br>* **C++**<br>* **Data Structures and Algorithms (DSA)**<br><br>🌱 I’m focused on strengthening my programming skills, practicing coding problems, and building small projects to grow as a developer.<br><br>📚 I enjoy learning new technologies and working step by step toward becoming a skilled software developer.<br>
 
-<p align="center">
-💻 Developer | 🚀 Learning Web Development | 🌍 India
-</p>
 
----
-
-### 🧠 About Me
-- 🌱 Currently learning **JavaScript**
-- 🔭 Working on **Web Projects**
-- 📫 Reach me: your@email.com
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vaibhav808-devloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav808-devloper&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav808-devloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vaibhav808-devloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Languages & Tools
-HTML | CSS | JavaScript | Python
-
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
